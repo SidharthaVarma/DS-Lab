@@ -24,7 +24,7 @@ int main()
             printf(" element not found ");
         }
         
-    if(i==0&& i==1)
+    if(i==0)
     {
        f=1; 
     }
