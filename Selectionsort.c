@@ -29,3 +29,11 @@ int main()
     }
      return 0;
 }
+/*
+Enter the size of the array
+ 5
+ Enter the elements of array
+ 101 22 111 133 12 
+ Ascending order
+ 12 22 101 111 133 
+*/
