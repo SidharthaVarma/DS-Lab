@@ -27,3 +27,10 @@ int main() {
    }
     return 0;
 }
+/* OUTPUT 
+Enter the size of array 
+5
+Enter he elements of the array 
+99 88 77 66 55 
+Ascending order 
+55 66 77 88 99 */
